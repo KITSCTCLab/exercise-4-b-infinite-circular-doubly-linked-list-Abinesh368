@@ -13,4 +13,4 @@ while len(actual_list) < length_of_circular_linked_list and index < len(circular
     index += 1
 
 print(len(actual_list))
-print(" ".join(str(num) for num in actual_list))
+print(" ".join(str(num) for num in actual_list))
